@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "fa7a8187e8b087ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dadab27bb604fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65baabe3150fd488",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "07efbce91539f862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Веб-технологии/Структура HTTP-запроса и ответа.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Структура HTTP-запроса и ответа"
+            }
+          },
+          {
+            "id": "3700b59c93264690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Веб-технологии/Сетевая инфраструктура.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Сетевая инфраструктура"
+            }
+          },
+          {
+            "id": "68a48c7998694dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Golang/Теория по языку/Веб-технологии/API и форматы данных.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "API и форматы данных"
+            }
+          },
+          {
+            "id": "82bdeae8e9daca45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP/HTTPS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTPS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f7bbe5451d9d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97783796a63dee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b582deec8c2b25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "948c5db9042073d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Очередь",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7b002683ed4d640f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.5026054382324
+  },
+  "right": {
+    "id": "0c892d948d2bc8df",
+    "type": "split",
+    "children": [
+      {
+        "id": "88121f7dde5f16f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b79a1751d03279aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "3f4bd31f0b9c3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "fa69aa984bdc4b2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e8c7ccdef6fc7ebc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "fac6fc63fbdfc4d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "df428a062ec54c42",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "de5b30211a5c7661",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "remotely-save:Remotely Save": false,
+      "templater-obsidian:Templater": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "07efbce91539f862",
+  "lastOpenFiles": [
+    "Программирование/Веб-технологии/HTTP/HTTPS.md",
+    "Программирование/Веб-технологии/Модель OSI и TCP IP.md",
+    "Ыыыы.md",
+    "Программирование/Golang/Теория по языку/Основы языка/Специальные типы/Интерфейсы.md",
+    "Программирование/Golang/Теория по языку/Основы языка/Специальные типы/Интерфейсы в Go.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Стандартные пакеты/Примитивы sync.md",
+    "Программирование/SQL/Select.md",
+    "Расширенные возможности.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Стандартные пакеты/Sync пакет.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Системное программирование.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Atomic.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Конкурентность.md",
+    "Управление памятью.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Стандартные пакеты",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/Конкурентность и параллелизм.md",
+    "Программирование/SQL/Запросы и модификация данных 1.md",
+    "Программирование/Веб-технологии/Сетевая инфраструктура.md",
+    "Программирование/Golang/Теория по языку/Основы языка/Составные типы/Внутренности map в Go.md",
+    "Программирование/Golang/Теория по языку/Основы языка/Составные типы/Внутреннее устройство map в Go 1.24+.md",
+    "VPN veesp.md",
+    "TODO Темы, которые нужно добавить.md",
+    "Программирование/Golang/Теория по языку/Продвинутые темы/POSIX API.md",
+    "Программирование/Golang/Теория по языку/Основы языка/Специальные типы/itab кэш.md",
+    "Шаблоны/Reference Template.md",
+    "Шаблоны/Planner Template.md",
+    "Шаблоны/Default Template.md",
+    "Шаблоны/Program Theory Template.md",
+    "Шаблоны",
+    "Программирование/Структуры данных/Линейные структуры",
+    "Программирование/Структуры данных/Деревья",
+    "Программирование/Структуры данных/Графы",
+    "Программирование/Структуры данных",
+    "Программирование/Веб-технологии",
+    "Программирование/SQL",
+    "Программирование/Python",
+    "Программирование/Golang/Теория по языку/Рабочие темы/Тестирование",
+    "resorces/IMG_20250510_110051.jpg",
+    "Без названия.canvas"
+  ]
+}
