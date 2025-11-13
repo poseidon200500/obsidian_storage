@@ -1,9 +1,12 @@
 ---
 tags:
-  - Шаблоны
   - Программирование
   - Теория_по_языку_Golang
+  - Sync
+  - SyncPool
+  - Внутренее_устройство
 Связанные темы:
+  - "[[Примитивы sync]]"
 ---
 # **Внутреннее устройство sync.Cond в Go**
 
@@ -19,7 +22,7 @@ type Cond struct {
     L Locker // Мьютекс, связанный с условием (обычно *Mutex или *RWMutex)
     
     notify  notifyList // Очередь ожидающих горутин
-    checker copyChecker // Проверка на копирование в runtime
+	    checker copyChecker // Проверка на копирование в runtime
 }
 
 // Очередь ожидания - реализована как lock-free linked list
