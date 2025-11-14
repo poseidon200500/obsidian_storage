@@ -226,3 +226,11 @@ type GreenTeaController struct {
 │ STW pausues│ 300-500μs    │ 200-300μs    │
 └────────────┴──────────────┴──────────────┘
 ```
+
+
+## Полезные материалы
+
+### Серия статей про устройство GC
+- [Сборщик мусора в Go. Часть 1](https://habr.com/ru/articles/946774/)
+- [Сборщик мусора в Go. Часть 2](https://habr.com/ru/articles/948864/) 
+- [Сборщик мусора в Go. Часть 3](https://habr.com/ru/articles/953426/)
