@@ -36,7 +36,7 @@ ON table_name (column1 [ASC|DESC], ...)
 **Лучшее применение:** 
 - Диапазонные запросы (`BETWEEN`, `>`, `<`)
 - Сортировка (`ORDER BY`)
-- Точные совпадения (`=`)
+- Точные совпадения (` =`)
 
 **Пример:**
 ```sql
@@ -50,7 +50,7 @@ CREATE INDEX idx_customer_name ON customers(last_name, first_name);
 ##### **2.2. Hash индекс**
 **Поддержка:** PostgreSQL, Memory-движки MySQL  
 **Лучшее применение:** 
-- Точные совпадения (`=`)
+- Точные совпадения (` =`)
 - Нет поддержки диапазонов
 
 **Пример:**
@@ -149,9 +149,9 @@ WHERE order_date > '2023-01-01' AND status = 'shipped';
 
 **Просмотр индексов:**
 ```sql
--- MySQL
-SHOW INDEXES FROM table_name;
+-- MySQLle_name;
 
+SHOW INDEXES FROM tab
 -- PostgreSQL
 SELECT * FROM pg_indexes WHERE tablename = 'table_name';
 ```
