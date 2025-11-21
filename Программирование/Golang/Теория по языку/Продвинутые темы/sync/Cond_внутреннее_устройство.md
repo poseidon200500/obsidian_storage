@@ -22,7 +22,7 @@ type Cond struct {
     L Locker // Мьютекс, связанный с условием (обычно *Mutex или *RWMutex)
     
     notify  notifyList // Очередь ожидающих горутин
-	    checker copyChecker // Проверка на копирование в runtime
+	checker copyChecker // Проверка на копирование в runtime
 }
 
 // Очередь ожидания - реализована как lock-free linked list
