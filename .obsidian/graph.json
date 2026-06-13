@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Шаблоны  ",
+      "color": {
+        "a": 1,
+        "rgb": 4049685
+      }
+    },
+    {
+      "query": "tag:#Начало  ",
+      "color": {
+        "a": 1,
+        "rgb": 10354688
+      }
+    },
+    {
+      "query": "tag:#Cardistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 15464960
+      }
+    },
+    {
+      "query": "tag:#Программирование  ",
+      "color": {
+        "a": 1,
+        "rgb": 16362338
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 6080726
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.257276507276507,
+  "repelStrength": 15.7068607068607,
+  "linkStrength": 1,
+  "linkDistance": 150,
+  "scale": 0.32133638605034986,
+  "close": true
+}
